@@ -5,8 +5,9 @@ Dependency: matplotlib
 
 ## How to use
 On linux, run:
+'''
 python -i bandit.py
-
+'''
 
 Then, do:
 plot(x)
